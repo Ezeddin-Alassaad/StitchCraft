@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://stitch-craft-phi.vercel.app/
+
+# Sitemaps
+Sitemap: https://stitch-craft-phi.vercel.app/sitemap.xml

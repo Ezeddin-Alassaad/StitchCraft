@@ -44,6 +44,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+      <meta name="google-site-verification" content="QkH_5OHsGxRk4B09p0mgV-w5c0gYwDnJfJsiYZYCIi8" />
+      </head>
       <body className={`${playfair.variable} ${poppins.variable} font-poppins`}>
         <Navbar />
         <main className="min-h-screen">
